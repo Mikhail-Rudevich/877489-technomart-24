@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Misha R](https://up.htmlacademy.ru/htmlcss/24/user/877489).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Пасунько](https://htmlacademy.ru/profile/id702351)
 
 ---
 
